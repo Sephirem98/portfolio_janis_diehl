@@ -1,6 +1,6 @@
 ### About
 ---
-This programm is my version of the code.golf challenge [Diamonds](https://code.golf/diamonds) written in the esotheric programming language brainfuck. <br>
+This programm is my version of the code.golf challenge [Diamonds](https://code.golf/diamonds) written in the esoteric programming language brainfuck. <br>
 It displays nine diamonds made up of numbers in the following pattern: 
 ```
          1
@@ -32,7 +32,7 @@ It displays nine diamonds made up of numbers in the following pattern:
 
 ### What is brainfuck
 ---
-Brainfuck is a turing-complete [esotheric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language).<br>
+Brainfuck is a turing-complete [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language).<br>
 The language uses only eight commands and is based on a one-dimensional array, with each cell initialized to zero.<br>
 By using the commands '<' and '>' you can move the data pointer along the cells.<br>
 With '+' and '-' you can increment or decrement the value of the current cell.<br>
