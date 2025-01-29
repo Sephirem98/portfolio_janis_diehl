@@ -1,7 +1,7 @@
 ### Hello I'm Janis
 
 I am a second year apprentice as an **IT Specalist for Application Development**. <br>
-My preferred programming language is **PHP**, however I also have some experience with other languages, including the [esoteric language](https://en.wikipedia.org/wiki/Esoteric_programming_language) [**brainfuck**](https://en.wikipedia.org/wiki/Brainfuck).
+My preferred programming language is **PHP**, however I also have some experience with other languages, including the [esoteric language](https://esolangs.org/wiki/Esoteric_programming_language) [**brainfuck**](https://esolangs.org/wiki/Brainfuck).
 
 ---
 
