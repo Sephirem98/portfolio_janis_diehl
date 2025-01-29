@@ -26,12 +26,12 @@ Each project folder will contain their own 'ReadMe' file.
 WIP
 [Code golf](https://code.golf/golfers/Sephirem98)
 
-⬜🟧🟧🟧🟧🟧🟧🟧🟧🟧 &ensp 📦 **Backend Logic** <br>
-⬜⬜🟧🟧🟧🟧🟧🟧🟧🟧 &ensp 🛠️ **Debugging** <br>
-⬜⬜⬜🟧🟧🟧🟧🟧🟧🟧 &ensp 📈 **Optimization** <br>
-⬜⬜⬜⬜⬜🟧🟧🟧🟧🟧 &ensp 🧠 **Database Systems** <br>
-⬜⬜⬜⬜⬜⬜⬜🟧🟧🟧 &ensp 📝 **Documentation** <br>
-⬜⬜⬜⬜⬜⬜⬜⬜⬜🟥 &ensp 📚 **Frontend design** <br>
+⬜🟧🟧🟧🟧🟧🟧🟧🟧🟧 📦 **Backend Logic** <br>
+⬜⬜🟧🟧🟧🟧🟧🟧🟧🟧 🛠️ **Debugging** <br>
+⬜⬜⬜🟧🟧🟧🟧🟧🟧🟧 📈 **Optimization** <br>
+⬜⬜⬜⬜⬜🟧🟧🟧🟧🟧 🧠 **Database Systems** <br>
+⬜⬜⬜⬜⬜⬜⬜🟧🟧🟧 📝 **Documentation** <br>
+⬜⬜⬜⬜⬜⬜⬜⬜⬜🟥 📚 **Frontend design** <br>
 
 ---
 
