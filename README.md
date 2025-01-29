@@ -1,13 +1,13 @@
 ### Hello I'm Janis
 
 I am a second year apprentice as an **IT Specalist for Application Development**. <br>
-My preferred programming language is **PHP**, however I also have some experience with other languages, including the esoteric language **brainfuck**.
+My preferred programming language is **PHP**, however I also have some experience with other languages, including the [esoteric language](https://en.wikipedia.org/wiki/Esoteric_programming_language) [**brainfuck**](https://en.wikipedia.org/wiki/Brainfuck).
 
 ---
 
 ### My Projects
 
-Below you can see a selection of projects Ii have worked on or am still working on during my apprenticeship and in my free time.<br>
+Below you can see a selection of projects I have worked on or am still working on during my apprenticeship and in my free time.<br>
 Each project folder will contain their own 'ReadMe' file.
 
 | Language | Project Name                                               |
@@ -44,7 +44,7 @@ As long as it does not require designing a UI or anything similar, I'm happy to 
 
 ---
 
-### Languages i work with
+### Languages I work with
 
 - **PHP**
 - **C**
