@@ -12,19 +12,19 @@ Each project folder will contain their own 'ReadMe' file.
 
 | Language | Project Name                                               |
 |----------|------------------------------------------------------------|
-|C         | [2048] (/01_2048)                                          |
-|PHP       | [Arcade] (/02_Arcade)                                      |
-|PHP, C++  | [Braille Translator] (/03_Braille_translator)              |
-|PHP       | [IP Subnet Sorting] (/04_IP_Subnet_sorting)                |
-|PHP       | [Decision table compiler] (/05_Decision_table_compiler)    |
-|brainfuck | [Diamonds] (/06_Diamonds_brainfuck)                        |
-|PHP       | [RSA_Cryptography] (/07_RSA_Cryptography)                  |
+|C         | [2048](/01_2048)                                          |
+|PHP       | [Arcade](/02_Arcade)                                      |
+|PHP, C++  | [Braille Translator](/03_Braille_translator)              |
+|PHP       | [IP Subnet Sorting](/04_IP_Subnet_sorting)                |
+|PHP       | [Decision table compiler](/05_Decision_table_compiler)    |
+|brainfuck | [Diamonds](/06_Diamonds_brainfuck)                        |
+|PHP       | [RSA_Cryptography](/07_RSA_Cryptography)                  |
 
 ---
 
 ### My interests
 WIP
-[Code golf] (https://code.golf/golfers/Sephirem98)
+[Code golf](https://code.golf/golfers/Sephirem98)
 
 ⬜🟧🟧🟧🟧🟧🟧🟧🟧🟧 &ensp 📦 **Backend Logic** <br>
 ⬜⬜🟧🟧🟧🟧🟧🟧🟧🟧 &ensp 🛠️ **Debugging** <br>
