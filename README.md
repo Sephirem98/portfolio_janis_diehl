@@ -64,7 +64,7 @@ As long as it does not require designing a UI or anything similar, I'm happy to 
 - **Name:** Janis Diehl
 - **Pronouns:** he/any
 - **Birthday:** 02.08.1998
-- **Location:** 65719 Hofheim, Germany
+- **Location:** Hesse, Germany
 - **Hobbies:** Gaming, Anime, Manga and Coding
 - **Favorite Games:** XCOM 2, Last Epoch, Divinity: Original Sin 2
 
