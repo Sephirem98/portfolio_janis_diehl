@@ -2,7 +2,12 @@
 // TODO
 // Translate all outputs
 // Add comments
-// Add header
+
+// Author: Janis Diehl
+// Created: November 2024
+// Purpose: Translating a decision table from a cvs file to usable PHP code
+// Problems:
+
 function input(){
     $csvfileArr = glob("Decisiontables/*.csv");
 

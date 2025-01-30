@@ -1,7 +1,11 @@
 <?php
 // TODO
 // Add comments
-// Add header
+
+// Author: Janis Diehl
+// Created: October 2024
+// Purpose: A proof of concept to encode a message via RSA encryption.
+// Problems:
 
 $subnetArr = [];
 

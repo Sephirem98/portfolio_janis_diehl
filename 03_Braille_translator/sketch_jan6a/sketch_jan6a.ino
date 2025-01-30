@@ -1,20 +1,16 @@
 #include <ArduinoJson.h>
 
 // Author: Janis Diehl
-// Erstellt am: 17.12.2024
-// Zweck: Darstellung von Braille Buchstaben auf einem 3x2 LED Raster
-// Nutzung:
-// Sobald auf dem Seriellen Monitor die Verbindungsbestätigung erscheint,
-// kann der Nutzer über den Seriellen Monitor Input eingeben.
-// Dieser Input soll ein 2D Array sein. Die Arrays der zweiten Dimension
-// sollen sechs Einsen oder Nullen beinhalten.
-// Bsp: [[1,1,0,0,1,0], [0,1,0,0,1,1]]
-// Die sechs Stellen stehen jeweils für eine der Positionen eines Braille Buchstaben.
-// Diese sind folgendermaßen aufgebaut:
+// Created: December 2024
+// Purpose: Display braille letters on a 3x2 LED Matrix
+// Usage: As soon as the serial monitor displays the connection confirmation,
+// the user can input a 2D array of bits. Each second dimension array is made up of 6 bits.
+// Example:[[1,1,0,0,1,0], [0,1,0,0,1,1]]
+// The six digits represent each position of a braille letter like this:
 // 0  3
 // 1  6
 // 2  5
-// und werden auf den folgenden Pins angezeigt:
+// and are put out through the following pin numbers:
 // 2  5
 // 3  6
 // 4  7

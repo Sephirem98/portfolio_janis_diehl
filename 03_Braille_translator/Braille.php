@@ -1,6 +1,8 @@
 <?php
-// TODO
-// Add header
+// Author: Janis Diehl
+// Created: December 2024
+// Purpose: A proof of concept to encode a message via RSA encryption.
+// Problems:
 
 require_once "PhpSerial.php";
 
